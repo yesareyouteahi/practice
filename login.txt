@@ -1,3 +1,0 @@
-login file will contain credentials
-
-Using the restore command is called restoration of file.
